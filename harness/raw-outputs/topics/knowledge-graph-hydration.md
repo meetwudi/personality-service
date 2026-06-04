@@ -14,3 +14,4 @@
 - `0016`: [GCP Test Deployment](../entries/0016-gcp-test-deployment.md)
 - `0017`: [Cloud Run OpenAI Key](../entries/0017-cloud-run-openai-key.md)
 - `0018`: [Experimental Privacy Policy](../entries/0018-experimental-privacy-policy.md)
+- `0019`: [Cloud Run Shutdown](../entries/0019-cloud-run-shutdown.md)
