@@ -1,0 +1,20 @@
+[project]
+name = "personality-service"
+version = "0.1.0"
+description = "Experimental RDF knowledge graph hydration service."
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.115.0",
+  "openai-agents>=0.17.4,<1.0.0",
+  "rdflib>=7.0.0",
+  "uvicorn[standard]>=0.30.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
