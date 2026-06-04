@@ -8,3 +8,7 @@ def answer_cap() -> int:
     except ValueError:
         return 100
     return max(1, cap)
+
+
+def public_base_url() -> str:
+    return os.getenv("PUBLIC_BASE_URL", "http://localhost:8017").rstrip("/")
