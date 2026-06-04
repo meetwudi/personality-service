@@ -1,0 +1,4 @@
+fastapi>=0.115.0
+openai-agents>=0.17.4,<1.0.0
+rdflib>=7.0.0
+uvicorn[standard]>=0.30.0

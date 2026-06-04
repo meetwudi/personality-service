@@ -11,3 +11,4 @@
 - `0013`: [Init Must Not Trigger Script Writing](../entries/0013-init-must-not-trigger-script-writing.md)
 - `0014`: [Learn Complete Stop Condition](../entries/0014-learn-complete-stop-condition.md)
 - `0015`: [Answer Cap Only Stop Condition](../entries/0015-answer-cap-only-stop-condition.md)
+- `0016`: [GCP Test Deployment](../entries/0016-gcp-test-deployment.md)
