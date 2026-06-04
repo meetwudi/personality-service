@@ -12,3 +12,4 @@
 - `0014`: [Learn Complete Stop Condition](../entries/0014-learn-complete-stop-condition.md)
 - `0015`: [Answer Cap Only Stop Condition](../entries/0015-answer-cap-only-stop-condition.md)
 - `0016`: [GCP Test Deployment](../entries/0016-gcp-test-deployment.md)
+- `0017`: [Cloud Run OpenAI Key](../entries/0017-cloud-run-openai-key.md)
